@@ -17,7 +17,7 @@ if (!defined('BASEPATH'))
   | path to your installation.
   |
  */
-$config['base_url'] = 'http://mysystem2.kr/';
+$config['base_url'] = 'http://karancms.kr/';
 $config['front_theme'] = $config['base_url'].'theme/front/';
 $config['admin_theme'] = $config['base_url'].'theme/admin2/';
 
